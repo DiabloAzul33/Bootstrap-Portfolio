@@ -22,7 +22,6 @@ body {
   /* create styles for use for all white main boxes */
   .block {
     background-color: #fff;
-  
     padding: 30px;
     margin-bottom: 30px;
   }
@@ -146,6 +145,7 @@ body {
   
   .port-image {
     margin: 20px auto;
+    size: 350px;
   }
   
   .form-control {
